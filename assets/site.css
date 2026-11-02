@@ -205,3 +205,10 @@ form.contact button:disabled{opacity:.6; cursor:default}
 @media print{ .explore{display:none} .sub .id{border:0} }
 @media (max-width:520px){ .blk{grid-template-columns:repeat(2, minmax(0,1fr)); gap:14px 16px} .blk > div:last-child{grid-column:1 / -1} }
 @media (max-width:380px){ .wordmark{font-size:1.0625rem} .tools .tb a{padding:6px 8px} }
+
+/* Tennis photographs preserve their full framing on every screen size. */
+.tennis-photo{margin:0; max-width:100%}
+.tennis-photo img{display:block; width:100%; height:auto; border-radius:4px}
+.tennis-photo figcaption{margin-top:6px; font-size:.8125rem; color:var(--muted)}
+.tennis-coaching{margin-top:28px; max-width:350px}
+@media print{.tennis-photo{display:none}}
