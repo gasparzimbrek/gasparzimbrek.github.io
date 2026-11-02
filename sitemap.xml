@@ -128,4 +128,28 @@
     <xhtml:link rel="alternate" hreflang="hr" href="https://gasparzimbrek.github.io/hr/skills/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://gasparzimbrek.github.io/skills/"/>
   </url>
+  <url>
+    <loc>https://gasparzimbrek.github.io/tennis/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gasparzimbrek.github.io/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gasparzimbrek.github.io/fr/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://gasparzimbrek.github.io/hr/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gasparzimbrek.github.io/tennis/"/>
+  </url>
+  <url>
+    <loc>https://gasparzimbrek.github.io/fr/tennis/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gasparzimbrek.github.io/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gasparzimbrek.github.io/fr/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://gasparzimbrek.github.io/hr/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gasparzimbrek.github.io/tennis/"/>
+  </url>
+  <url>
+    <loc>https://gasparzimbrek.github.io/hr/tennis/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gasparzimbrek.github.io/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://gasparzimbrek.github.io/fr/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://gasparzimbrek.github.io/hr/tennis/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gasparzimbrek.github.io/tennis/"/>
+  </url>
 </urlset>
