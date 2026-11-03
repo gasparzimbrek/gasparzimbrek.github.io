@@ -215,3 +215,10 @@ form.contact button:disabled{opacity:.6; cursor:default}
 
 /* Group photographs fill the research text column without cropping. */
 .row .photo.team-photo{max-width:100%}
+
+/* Graduation portrait beside the Penn State degree. */
+.degree-with-photo{display:grid; grid-template-columns:minmax(0,1fr) 140px; gap:20px; align-items:start}
+.graduation-photo{margin:0}
+.graduation-photo img{display:block; width:100%; height:auto; border-radius:3px}
+@media (max-width:600px){.degree-with-photo{grid-template-columns:1fr}.graduation-photo{max-width:160px}}
+@media print{.degree-with-photo{display:block}.graduation-photo{display:none}}
