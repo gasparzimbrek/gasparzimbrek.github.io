@@ -212,3 +212,6 @@ form.contact button:disabled{opacity:.6; cursor:default}
 .tennis-photo figcaption{margin-top:6px; font-size:.8125rem; color:var(--muted)}
 .tennis-coaching{margin-top:28px; max-width:350px}
 @media print{.tennis-photo{display:none}}
+
+/* Group photographs fill the research text column without cropping. */
+.row .photo.team-photo{max-width:100%}
